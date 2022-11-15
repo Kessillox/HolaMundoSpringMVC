@@ -1,2 +1,6 @@
 HELP.md
 target/
+.classpath
+.factorypath
+.project
+.setting
