@@ -1,2 +1,8 @@
 HELP.md
 target/
+.classpath
+.factorypath
+.project
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.jdt.apt.core.prefs
+.settings/org.eclipse.jdt.core.prefs
